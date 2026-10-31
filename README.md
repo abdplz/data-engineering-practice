@@ -1,2 +1,4 @@
-# data-engineering-practice
-Hands-on Python, SQL, and data processing exercises for data engineering.
+#Data Engineering Pyton Practices
+
+This is a basic Python exercies 
+You can find Questions in the jupyter nootebook for each Question
